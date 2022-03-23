@@ -35,6 +35,6 @@
 
 ---
 
-[website]: http://wiredblogs.epizy.com/
+[website]: https://otherwa.web.app/
 [instagram]: https://www.instagram.com/otherwa.jpg
 [linkedin]: www.linkedin.com/in/Otherwa
