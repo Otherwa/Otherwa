@@ -1,6 +1,6 @@
 ### Hi there, I'm Atharv 👋 
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=wiredblogs&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fwiredblogs.epizy.com%2F)](http://wiredblogs.epizy.com/?i=1)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=wiredblogs&style=flat-square&up_color=blue&up_message=online&url=http%3A%2F%2Fwiredblogs.epizy.com%2F)](https://otherwa.web.app/)
 
 
 ##
