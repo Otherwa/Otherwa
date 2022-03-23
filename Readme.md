@@ -4,10 +4,11 @@
 
 
 ##
-
-- 🌱 I’m currently learning Java
+- 🌱 Hi myself @AtharvDesai
+- � I’m currently learning Java
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- Contact me at atharvdesai2002@gmail.com
 
 ### Connect with me:
 
