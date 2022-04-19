@@ -1,7 +1,3 @@
-<style>
-body{background-colot:black;}
-</style>
-
 ### Hi there, I'm Atharv Desai 👋 
 
 ##
