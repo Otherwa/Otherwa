@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+### Hi there, I'm Atharv Desai 👋 
 
-You can use the [editor on GitHub](https://github.com/Otherwa/Otherwa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Website](https://img.shields.io/website?color=blue&down_color=lightgrey&down_message=red&label=Otherwa&up_color=green&up_message=online&url=https%3A%2F%2Fotherwa.web.app%2F)](https://otherwa.web.app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##
+- � I’m currently learning Java
+- 👯 I’m looking to collaborate with other creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- Contact me at atharvdesai2002@gmail.com
+- 🤓
 
-### Markdown
+<br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
-```markdown
-Syntax highlighted code block
+### Connect with me:
 
-# Header 1
-## Header 2
-### Header 3
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- Bulleted
-- List
+<br />
 
-1. Numbered
-2. List
+### Languages and Tools:
 
-**Bold** and _Italic_ and `Code` text
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][website]
+<br />
+<br />
 
-[Link](url) and ![Image](src)
-```
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otherwa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Otherwa/Otherwa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[website]: https://otherwa.web.app/
+[instagram]: https://www.instagram.com/otherwa.jpg
+[linkedin]: www.linkedin.com/in/Otherwa
