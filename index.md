@@ -1,6 +1,8 @@
-### Hi there, I'm Atharv Desai 👋 
+<style>
+body{background-colot:black;}
+</style>
 
-[![Website](https://img.shields.io/website?color=blue&down_color=lightgrey&down_message=red&label=Otherwa&up_color=green&up_message=online&url=https%3A%2F%2Fotherwa.web.app%2F)](https://otherwa.web.app/)
+### Hi there, I'm Atharv Desai 👋 
 
 ##
 - � I’m currently learning Java
