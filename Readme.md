@@ -14,7 +14,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🤝  I'm open to collaborating on Open-Source Projects
 * ⚡  "I need a weapon."
 
-![](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
+![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
