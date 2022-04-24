@@ -1,4 +1,4 @@
-Hi 👋 My name is Atharv Desai
+Hi 👋 I'm Atharv Desai
 =============================
 
 Newbie Front-End Developer
