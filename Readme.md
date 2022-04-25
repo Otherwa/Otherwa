@@ -4,7 +4,7 @@ Hi 👋 I'm Atharv Desai
 Newbie Front-End Developer
 --------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+I've been learning to code for 5 years, after getting into Science Stream. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [Init](http://otherwa.web.app)
