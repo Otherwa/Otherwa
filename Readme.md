@@ -12,7 +12,7 @@ I've been learning to code for 5 years, after getting into Science Stream. I sta
 * 🚀  I'm currently working on [Chart.js Integration](http://escapethesite.web.app)
 * 🧠  I'm learning ASP.Net
 * 🤝  I'm open to collaborating on Open-Source Projects
-* ⚡  "I need a weapon."
+* ⚡  "Tatakae Tatakae !!"
 
 ![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
