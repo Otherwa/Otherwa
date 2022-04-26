@@ -1,10 +1,10 @@
-Hi 👋 I'm Atharv Desai
+Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Atharv Desai
 =============================
 
 Newbie Front-End Developer
 --------------------------
 
-I've been learning to code for 5 years,since I.C.T lectures in school. I started with HTML, but have really found a passion for backend development...
+I've been learning to code for 5 years, since I.T lectures in school from starting with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [Init](http://otherwa.web.app)
@@ -18,7 +18,7 @@ I've been learning to code for 5 years,since I.C.T lectures in school. I started
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 ### Skills
 
 <p align="left">
