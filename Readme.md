@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" 
 Newbie Front-End Developer
 --------------------------
 
-I've been learning to code for 5 years, since I.T lectures in school from starting with HTML to , but have really found a passion for backend development...
+I've been learning to code for 5 years, since I.T lectures in school from starting with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [Init](http://otherwa.web.app)
