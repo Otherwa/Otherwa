@@ -4,7 +4,7 @@ Hi 👋 I'm Atharv Desai
 Newbie Front-End Developer
 --------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+I've been learning to code for 5 years,since I.C.T lectures in school. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [Init](http://otherwa.web.app)
@@ -12,9 +12,9 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🚀  I'm currently working on [Chart.js Integration](http://escapethesite.web.app)
 * 🧠  I'm learning ASP.Net
 * 🤝  I'm open to collaborating on Open-Source Projects
-* ⚡  "I need a weapon."
+* ⚡  "Okay. On to plan B. Whatever that is."
 
-![](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
+![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
