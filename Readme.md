@@ -18,7 +18,7 @@ I've been learning to code for 5 years, since I.T lectures in school from starti
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
+![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 ### Skills
 
 <p align="left">
