@@ -7,10 +7,10 @@ Newbie Front-End Developer
 I've been learning to code for 5 years, since I.T lectures in school from starting with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Dombivili, Maharashtra
-* 🖥️  See my portfolio at [Init](http://otherwa.web.app)
+* 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
 * 🚀  I'm currently working on [Chart.js Integration](http://escapethesite.web.app)
-* 🧠  I'm learning ASP.Net
+* 🧠  I'm currently learning ASP.Net
 * 🤝  I'm open to collaborating on Open-Source Projects
 * ⚡  "Okay. On to plan B. Whatever that is."
 
@@ -18,7 +18,7 @@ I've been learning to code for 5 years, since I.T lectures in school from starti
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
+![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 ### Skills
 
 <p align="left">
