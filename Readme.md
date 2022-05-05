@@ -1,4 +1,4 @@
-Hi I'm Atharv Desai <img src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-ultimate-stars-powerup.gif" width="100px">
+Hi 👋 I'm Atharv Desai 
 =============================
 
 Newbie Front-End Developer
@@ -13,12 +13,10 @@ I've been learning to code for 5 years, since I.T lectures in school from starti
 * 🧠  I'm currently learning ASP.Net
 * 🤝  I'm open to collaborating on Open-Source Projects
 * ⚡  "Okay. On to plan B. Whatever that is."
+<!-- <img src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-ultimate-stars-powerup.gif" width="100px"> -->
 
 ![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 
-<a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 ### Skills
 
 <p align="left">
@@ -38,6 +36,11 @@ src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-b
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+<a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 
 
 ### Socials
