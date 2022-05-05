@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Atharv Desai
+Hi I'm Atharv Desai <img src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-ultimate-stars-powerup.gif" width="100px">
 =============================
 
 Newbie Front-End Developer
