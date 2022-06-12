@@ -64,7 +64,3 @@ src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-b
 <div width="100%" align="center"><a href="https://github.com/Otherwa/A_pokedex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Otherwa&repo=A_pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Otherwa/VMS-v-1.0-super-octo-dollop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Otherwa&repo=VMS-v-1.0-super-octo-dollop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br />
 
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/otherwa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
