@@ -16,6 +16,7 @@ I've been learning to code for 5 years, since I.T lectures in school from starti
 <!-- <img src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-ultimate-stars-powerup.gif" width="100px"> -->
 
 ![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
+![](https://i.pinimg.com/originals/b9/fe/6d/b9fe6d4079ca2767d1ad63d8657d2024.gif)
 
 ### Skills
 
