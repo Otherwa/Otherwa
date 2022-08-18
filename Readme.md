@@ -10,7 +10,7 @@ I've been learning to code for 5 years, since I.T lectures in school from starti
 * 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
 * 🚀  I'm currently working on [Chart.js Integration](http://escapethesite.web.app)
-* 🧠  I'm currently learning .Net Framework 6.0
+* 🧠  I'm currently learning .Node.Js
 * 🤝  I'm open to collaborating on Open-Source Projects
 * ⚡  "Okay. On to plan B. Whatever that is."
 <!-- <img src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-ultimate-stars-powerup.gif" width="100px"> -->
