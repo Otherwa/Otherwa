@@ -4,7 +4,7 @@ Hi 👋 I'm Atharv Desai
 Newbie Front-End Developer
 --------------------------
 
-I've been learning to code for 5 years, since I.T lectures in school from starting with HTML, but have really found a passion for backend development...
+## Tatakae Tatakae !!!!
 
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
