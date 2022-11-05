@@ -45,7 +45,7 @@ Newbie Front-End Developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
