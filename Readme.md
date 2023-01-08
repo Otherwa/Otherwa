@@ -7,15 +7,30 @@ Newbie Front-End Developer
 ## Tatakae Tatakae !!!!
 
 * 🌍  I'm based in Dombivili, Maharashtra
+
 * 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
+
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
-* 🚀  I'm currently working on [Le-Vaccine](http://drug-lord.onrender.com) `Otherwa admin (pass)`
+
+* 🚀  I'm currently working on [Le-Vaccine](http://drug-lord.onrender.com)
+
 * ⚡  Sucessfully Deployed [KelkarForms](https://vazecollege.net/PATS)
+
 * 🧠  I'm currently learning .Node.Js
+
 * 🤝  I'm open to collaborating on Open-Source Projects
+
 * ⚡  "Okay. On to plan B. Whatever that is."
-* 🤖 Final Year Project [Le-Vaccine](https://levaccine.herokuapp.com/)
-<img src="https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" style="width:100vw">
+
+* 🤖  "Final Year Project" [Le-Vaccine](https://levaccine.herokuapp.com/)
+
+<a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
+
+<br>
+
+<img src="https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" style="width:100vw;border-radius:2rem">
 
 <!-- ![](https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
  -->
@@ -41,27 +56,13 @@ Newbie Front-End Developer
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Otherwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!-- 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
-
-<a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Otherwa#3268" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.stackoverflow.com/users/16597569/atharv-desai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
+## My GitHub Stats
 
 <a href="http://www.github.com/Otherwa"><img src="https://github-readme-stats.vercel.app/api?username=Otherwa&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Otherwa's GitHub stats" /></a>
 
@@ -70,6 +71,11 @@ src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-b
 <a href="http://www.github.com/Otherwa"><img src="https://activity-graph.herokuapp.com/graph?username=Otherwa&bg_color=1c1917&color=10b981&line=14b8a6&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Otherwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Otherwa#3268" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  &nbsp; <a href="https://www.stackoverflow.com/users/16597569/atharv-desai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 
 
 
