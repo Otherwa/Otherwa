@@ -7,22 +7,13 @@ Newbie Front-End Developer
 ## Tatakae Tatakae !!!!
 
 * 🌍  I'm based in Dombivili, Maharashtra
-
 * 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
-
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
-
-* 🚀  I'm currently working on [Le-Vaccine](http://drug-lord.onrender.com)
-
+* 🚀  I'm currently working on ChatGPT-4 API
 * ⚡  Sucessfully Deployed [KelkarForms](https://vazecollege.net/PATS)
-
 * 🧠  I'm currently learning .Node.Js
-
 * 🤝  I'm open to collaborating on Open-Source Projects
-
 * ⚡  "Okay. On to plan B. Whatever that is."
-
-* 🤖  "Final Year Project" [Le-Vaccine](https://levaccine.herokuapp.com/)
 
 <a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
