@@ -7,7 +7,7 @@ Newbie Front-End Developer
 ## Tatakae Tatakae !!!!
 
 * 🌍  I'm based in Dombivili, Maharashtra
-* 🖥️  See my portfolio at [Me.md](http://otherwa.web.app)
+* 🖥️  See my portfolio at [Me.md](http://0therwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
 * 🚀  I'm currently working on ChatGPT-4 API
 * ⚡  Sucessfully Deployed [KelkarForms](https://vazecollege.net/PATS)
