@@ -7,7 +7,7 @@ Newbie Front-End Developer
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
-* ⚡  Sucessfully Deployed [KelkarForms](https://vazecollege.net/PATS)
+* ⚡   Sucessfully Deployed [KelkarForms](https://vazecollege.net/PATS)
 * 🧠  I'm currently learning .Node.Js
 * 🤝  I'm open to collaborating on Open-Source Projects
 
