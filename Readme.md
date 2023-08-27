@@ -10,8 +10,6 @@ Newbie Front-End Developer
 * 🧠  I'm currently learning .Node.Js
 * 🤝  I'm open to collaborating on Open-Source Projects
 
-<a href="https://www.github.com/Otherwa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Otherwa?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 
 ### Skills
