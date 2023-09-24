@@ -6,7 +6,7 @@ Hi 👋 I'm Atharv Desai (Newbie Front-End Developer)
 * 🧠  I'm currently learning .Node.Js
 * 🤝  I'm open to collaborating on Open-Source Projects
 
-* ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
+# ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 
 ### Skills
 
