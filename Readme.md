@@ -1,16 +1,12 @@
-Hi 👋 I'm Atharv Desai 
+Hi 👋 I'm Atharv Desai (Newbie Front-End Developer)
 =============================
-
-Newbie Front-End Developer
---------------------------
-
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
 * 🧠  I'm currently learning .Node.Js
 * 🤝  I'm open to collaborating on Open-Source Projects
 
-![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
+* ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 
 ### Skills
 
