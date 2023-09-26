@@ -1,5 +1,5 @@
-Hi 👋 I'm Atharv Desai (Newbie Front-End Developer)
-=============================
+Hi 👋 I'm Atharv Desai
+
 * 🌍  I'm based in Dombivili, Maharashtra
 * 🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app)
 * ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
