@@ -1,10 +1,10 @@
 # Hi 👋 I'm Atharv Desai
 
-🌍  I'm based in Dombivili, Maharashtra <br>
-🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app) <br>
-✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com) <br>
-🧠  I'm currently learning .Node.Js <br>
-🤝  I'm open to collaborating on Open-Source Projects <br>
++ 🌍  I'm based in Dombivili, Maharashtra <br>
++ 🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app) <br>
++ ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com) <br>
++ 🧠  I'm currently learning .Node.Js <br>
++ 🤝  I'm open to collaborating on Open-Source Projects <br>
 
 ### Skills
 
