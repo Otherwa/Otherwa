@@ -1,10 +1,28 @@
-# Hi 👋 I'm Atharv Desai
+<img src="https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" style="width:100vw;border-radius:2rem">
 
-+ 🌍  I'm based in Dombivili, Maharashtra <br>
-+ 🖥️  See my portfolio at [ReadMe.md](http://0therwa.web.app) <br>
-+ ✉️  You can contact me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com) <br>
-+ 🧠  I'm currently learning .Node.Js <br>
-+ 🤝  I'm open to collaborating on Open-Source Projects <br>
+# Hello, I'm Atharv Desai! 👋
+
+I'm a passionate developer based in Dombivili, Maharashtra, India 🌍. I love exploring new technologies and building exciting projects. Here's a bit more about me:
+
+- 💻 Check out my portfolio at [ReadMe.md](http://0therwa.web.app)
+- ✉️ You can reach me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
+
+## 🤝 Open to Collaboration
+
+I'm enthusiastic about collaborating on open-source projects and working with like-minded individuals. If you have an exciting project or idea, feel free to reach out!
+
+
+## 📈 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Otherwa&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+
+## 🌟 Let's Connect!
+
+Let's connect and share ideas. You can find me on [LinkedIn](https://www.linkedin.com/in/otherwa)
+
+Thanks for stopping by! 😊
+
+
 
 ### Skills
 
@@ -33,5 +51,4 @@
 
 # ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Otherwa)
 
-<img src="https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" style="width:100vw;border-radius:2rem">
 
