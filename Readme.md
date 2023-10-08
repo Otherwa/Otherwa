@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/Z3DYCffBSt4AAAAd/super-saiyan3-goku.gifhttps://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" style="width:100vw;border-radius:2rem">
 
-# Hello, I'm Atharv Desai! 👋
+# Hello, I'm Atharv Desai! 💀
 
 I'm a passionate developer based in Dombivili, Maharashtra, India 🌍. I love exploring new technologies and building exciting projects. Here's a bit more about me:
 
