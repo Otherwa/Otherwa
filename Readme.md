@@ -4,7 +4,7 @@
 
 # I'm Atharv Desai! 💀
 
-I do some Epic shit. Here's a bit more about me:
+I do some Epic shit on average basis 💀, anyways Here's a bit more about me:
 
 - 💻 Check out my portfolio at [ReadMe.md](http://0therwa.web.app)
 - ✉️ You can reach me at [atharvdesai2002@gmail.com](mailto:atharvdesai2002@gmail.com)
